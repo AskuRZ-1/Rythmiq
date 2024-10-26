@@ -18,6 +18,15 @@ from a dedicated folder: **playlist** 📂.
   pip install tkinterdnd2
 ```
 
+## 📖 How to Use
+1. Clone the repository:
+   
+   ```bash
+   git clone https://github.com/AskuRZ-1/Rythmiq.git
+   ```
+2. Download the requirements `⬆`
+3. Run the program: `python Rythmiq.pyw` or just click on it.
+
 # 🎧 **Main Features**:
 1. Continuous playback of MP3 files without interruptions 🎼.
 2. Easy-to-navigate user interface 🌐.
