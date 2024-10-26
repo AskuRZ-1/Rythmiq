@@ -17,11 +17,12 @@ from a dedicated folder: **playlist** 📂.
    git clone https://github.com/AskuRZ-1/Rythmiq.git
    ```
 2. Download the requirements:
-```markdown
-  pip install customtkinter
-  pip install pygame
-  pip install tkinterdnd2
-```
+3. 
+   ```markdown
+     pip install customtkinter
+     pip install pygame
+     pip install tkinterdnd2
+   ```
 4. Run the program: `python Rythmiq.pyw` or just click on it.
 
 # 🎧 **Main Features**:
