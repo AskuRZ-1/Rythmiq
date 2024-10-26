@@ -10,22 +10,19 @@ from a dedicated folder: **playlist** 📂.
 - `pygame`: Used for audio rendering and playback control 🎶.
 - `tkinterdnd2`: Adds drag-and-drop functionality, making it simple to add files to the playlist 🖱️.
 
-# 📜 **Requirements**:
-
-```markdown
-  pip install customtkinter
-  pip install pygame
-  pip install tkinterdnd2
-```
-
 ## 📖 How to Use
 1. Clone the repository:
    
    ```bash
    git clone https://github.com/AskuRZ-1/Rythmiq.git
    ```
-2. Download the requirements `⬆`
-3. Run the program: `python Rythmiq.pyw` or just click on it.
+2. Download the requirements:
+```markdown
+  pip install customtkinter
+  pip install pygame
+  pip install tkinterdnd2
+```
+4. Run the program: `python Rythmiq.pyw` or just click on it.
 
 # 🎧 **Main Features**:
 1. Continuous playback of MP3 files without interruptions 🎼.
