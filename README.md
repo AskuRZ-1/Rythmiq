@@ -1,18 +1,18 @@
 
 🎵 **Rythmiq** 🎵
 
-Rythmiq est une application de lecture de fichiers audio au format MP3, développée par AskuRZ. 
-Ce lecteur a été conçu pour offrir une expérience intuitive et fluide, facilitant l'écoute 
-de vos morceaux favoris directement depuis un dossier dédié : **playlist** 📂.
+Rythmiq is an audio playback application developed by AskuRZ, designed for seamless playback of MP3 files. 
+This player offers an intuitive and smooth experience, making it easy to listen to your favorite tracks directly 
+from a dedicated folder: **playlist** 📂.
 
-🔧 **Technologies utilisées** :
-- `customtkinter`: Pour une interface moderne et personnalisable 🎨.
-- `pygame`: Utilisé pour le rendu sonore et le contrôle de la lecture audio 🎶.
-- `tkinterdnd2`: Pour ajouter une fonctionnalité de glisser-déposer, facilitant ainsi l'ajout de fichiers dans la playlist 🖱️.
+🔧 **Technologies used**:
+- `customtkinter`: For a modern, customizable interface 🎨.
+- `pygame`: Used for audio rendering and playback control 🎶.
+- `tkinterdnd2`: Adds drag-and-drop functionality, making it simple to add files to the playlist 🖱️.
 
-🎧 **Fonctionnalités principales** :
-1. Lecture continue et sans interruptions de fichiers MP3 🎼.
-2. Interface utilisateur facile à naviguer 🌐.
-3. Support du glisser-déposer pour ajouter rapidement vos fichiers dans le lecteur 💽.
+🎧 **Main Features**:
+1. Continuous playback of MP3 files without interruptions 🎼.
+2. Easy-to-navigate user interface 🌐.
+3. Drag-and-drop support for quickly adding your files to the player 💽.
 
-Avec Rythmiq, profitez d'une expérience d'écoute simple et agréable, où que vous soyez ! 🎶🕺💃
+With Rythmiq, enjoy a simple and delightful listening experience wherever you are! 🎶🕺💃
