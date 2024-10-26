@@ -1,5 +1,5 @@
 
-🎵 **Rythmiq** 🎵
+# 🎵 **Rythmiq** 🎵
 
 Rythmiq is an audio playback application developed by AskuRZ, designed for seamless playback of MP3 files. 
 This player offers an intuitive and smooth experience, making it easy to listen to your favorite tracks directly 
