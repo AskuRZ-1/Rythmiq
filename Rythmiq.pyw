@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from tkinterdnd2 import DND_FILES, TkinterDnD
 
-class MusicPlayerApp:
+class RythmiqMain:
     def __init__(self, Root):
         self.Root = Root
         self.Root.title("Rythmiq")
@@ -214,5 +214,5 @@ class MusicPlayerApp:
 
 if __name__ == "__main__":
     Root = TkinterDnD.Tk()
-    App = MusicPlayerApp(Root)
+    App = RythmiqMain(Root)
     Root.mainloop()
